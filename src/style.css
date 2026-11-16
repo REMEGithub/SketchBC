@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "MyFont";
+    src: url("@/assets/fonts/mplus_hzk_12.ttf") format("truetype");
+    font-display: swap;
+}
+
+* {
+    font-family: "MyFont", sans-serif;
+}

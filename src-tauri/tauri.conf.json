@@ -13,8 +13,9 @@
     "windows": [
       {
         "title": "sketchp",
-        "width": 750,
-        "height": 750
+        "width": 800,
+        "height": 800,
+        "resizable": false
       }
     ],
     "security": {
